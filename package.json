@@ -1,0 +1,21 @@
+{
+  "name": "afge-glslify-stdlib",
+  "version": "0.0.1",
+  "description": "Standard library for glslify-based afge shaders",
+  "main": "",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngoduyanh/afge-glslify-stdlib.git"
+  },
+  "keywords": [
+    "afge"
+  ],
+  "author": "ngoduyanh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngoduyanh/afge-glslify-stdlib/issues"
+  },
+  "homepage": "https://github.com/ngoduyanh/afge-glslify-stdlib#readme"
+}
